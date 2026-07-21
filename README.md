@@ -88,7 +88,15 @@ Currently Learning
 - Figma for UI/UX Design
 - Python for Beginners
 -->
+## 🚀 Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=pharmacy-inventory-management-system&theme=tokyonight)](https://github.com/Benefits2PointOh/pharmacy-inventory-management-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=business-inventory-management-system&theme=tokyonight)](https://github.com/Benefits2PointOh/business-inventory-management-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=online-training-booking-system&theme=tokyonight)](https://github.com/Benefits2PointOh/online-training-booking-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=contact-management-mobile-app&theme=tokyonight)](https://github.com/Benefits2PointOh/contact-management-mobile-app)
 -------------------------------------------------------
 
 ## 🎯 Career Goals
