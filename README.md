@@ -26,6 +26,9 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,15 +81,34 @@ Currently Learning
 • Cloud Computing
 
 -------------------------------------------------------
+<!--
+## 📜 Certifications
 
-
+- Business Intelligence Analyst
+- Figma for UI/UX Design
+- Python for Beginners
+-->
 
 -------------------------------------------------------
 
-Let's Connect
+## 🎯 Career Goals
 
-LinkedIn
+I'm passionate about developing software that solves real-world business problems.
 
-Email
+I'm currently looking for opportunities as a:
+
+- Graduate Software Developer
+- Junior Software Developer
+- Mobile Developer
+- Business Analyst
+- IT Support Engineer
+
+-------------------------------------------------------
+
+## 📫 Let's Connect
+
+LinkedIn: https://linkedin.com/in/tafaramawere
+
+Email: tafaramawereb@gmail.com
 
 -------------------------------------------------------
