@@ -1,4 +1,8 @@
 -------------------------------------------------------
+<p align="center">
+  <img src="banner.png" alt="Tafara Mawere Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tafara Mawere</h1>
 
 <h3 align="center">BSc Information Technology Graduate</h3>
