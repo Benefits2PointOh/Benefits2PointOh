@@ -13,7 +13,7 @@
 
 -------------------------------------------------------
 
-## 👨‍💻 About Me
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 - 🎓 Bachelor of Science in Information Technology Graduate
 - 💻 Passionate about Software Development
@@ -52,11 +52,11 @@ Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studi
 
 -------------------------------------------------------
 
-## 📊 GitHub Statistics
+<h2 align="center"> 📊 GitHub Statistics </h2>
 
 <p align="center">
 <!-- I dont want hub stats RN
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Benefits2PointOh&theme=rose_pine&show_icons=true&hide_border=true&title_color=F71BA0&icon_color=F71BA0&text_color=e0def4&bg_color=191724" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Benefits2PointOh&theme=midnight-purple&show_icons=true&hide_border=true" />
 -->
 
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Benefits2PointOh&layout=compact&theme=midnight-purple&hide_border=true" />
@@ -64,7 +64,7 @@ Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studi
 </p>
 
 -------------------------------------------------------
-## 🚀 Featured Projects
+<h2 align="center"> 🚀 My Projects </h2>
 
 ### 🖥️ Pharmacy Inventory Management System
 <!--
@@ -136,7 +136,7 @@ Screenshots Example
 -------------------------------------------------------
 -->
 
-## 🎯 Career Goals
+<h2 align="center"> 🎯 Career Goals </h2>
 
 I'm passionate about developing software that solves real-world business problems.
 
@@ -150,9 +150,9 @@ I'm currently looking for opportunities as a:
 
 -------------------------------------------------------
 
-## 📫 Let's Connect
+<h2 align="center"> 📫 Let's Connect </h2>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/tafaramawere">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
