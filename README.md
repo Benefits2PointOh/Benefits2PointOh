@@ -146,10 +146,11 @@ Screenshots Example
 
 🔗 **Repository:** *(Coming soon)*
 
----
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=contact-management-mobile-app&theme=tokyonight)](https://github.com/Benefits2PointOh/contact-management-mobile-app)
 -->
+
+---
 
 #### 📱 Restaurant Rater
 
@@ -179,6 +180,8 @@ Screenshots Example
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/Benefits2PointOh/Tic-Tac-Toe)
 -->
 
+---
+
 ### 🌐 Quiz-Website
 > Interactive web application that presents multiple-choice quizzes, validates answers instantly, and tracks user scores through a responsive and user-friendly interface.
 
@@ -189,6 +192,8 @@ Screenshots Example
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Quiz-Website&theme=tokyonight)](https://github.com/Benefits2PointOh/Quiz-Website)
 -->
+
+---
 
 ### 🌐 My-Portfolio
 > Personal portfolio showcasing my projects, technical skills, and software development journey.
