@@ -1,4 +1,4 @@
--------------------------------------------------------
+
 <p align="center">
   <img src="Tafara_Mawere_Banner.png" alt="Tafara Mawere Banner" />
 </p>
@@ -9,13 +9,15 @@
 
 <h3 align="center">Software Developer | Mobile Developer | Business Analyst</h3>
 
-<p align="center">Building software that solves real-world business problems</p>
+<p align="center">
+  Building software that solves real-world business problems across desktop, web, and Android platforms
+</p>
 
--------------------------------------------------------
+
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 
-- 🎓 Bachelor of Science in Information Technology Graduate
+- 🎓 BSc Information Technology Graduate from Richfield College
 - 💻 Passionate about Software Development
 - 💼 Business Analysis
 - 📱 Mobile Development
@@ -23,9 +25,9 @@
 - 🗄  SQL & Database Design
 - 🚀 Open to Graduate Programmes, Junior Developer, Software Engineer, and Business Analyst opportunities.
 
--------------------------------------------------------
 
-## 🛠 Tech Stack
+
+<h2 align="center"> 🛠 Tech Stack </h2>
 
 ### Languages
 
@@ -48,9 +50,19 @@
 
 ### Tools
 
-Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studio • NetBeans • Figma
+### 🛠 Development Tools
 
--------------------------------------------------------
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 <h2 align="center"> 📊 GitHub Statistics </h2>
 
@@ -63,7 +75,7 @@ Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studi
 
 </p>
 
--------------------------------------------------------
+
 <h2 align="center"> 🚀 My Projects </h2>
 
 ### 🖥️ Pharmacy Inventory Management System
@@ -115,9 +127,9 @@ Screenshots Example
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 -->
--------------------------------------------------------
 
-## 📖 Currently Learning
+
+<h2 align="center"> 📖 Currently Learning </h2>
 
 - Business Intelligence Analytics
 - Figma for UI/UX Design
@@ -125,15 +137,13 @@ Screenshots Example
 - REST APIs
 - Cloud Computing
 
--------------------------------------------------------
+
 <!--
 ## 📜 Certifications
 
 - Business Intelligence Analyst
 - Figma for UI/UX Design
 - Python for Beginners
-
--------------------------------------------------------
 -->
 
 <h2 align="center"> 🎯 Career Goals </h2>
@@ -148,7 +158,7 @@ I'm currently looking for opportunities as a:
 - Business Analyst
 - IT Support Engineer
 
--------------------------------------------------------
+
 
 <h2 align="center"> 📫 Let's Connect </h2>
 
@@ -174,4 +184,3 @@ I'm currently looking for opportunities as a:
 
 </p>
 
--------------------------------------------------------
