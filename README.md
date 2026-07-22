@@ -15,13 +15,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Bachelor of Science in Information Technology Graduate
-💻 Passionate about Software Development
-💼 Business Analysis
-📱 Mobile Development
-🌐 Web Development
-🗄  SQL & Database Design
-🚀 Open to Graduate Programmes, Junior Developer, Software Engineer, and Business Analyst opportunities.
+- 🎓 Bachelor of Science in Information Technology Graduate
+- 💻 Passionate about Software Development
+- 💼 Business Analysis
+- 📱 Mobile Development
+- 🌐 Web Development
+- 🗄  SQL & Database Design
+- 🚀 Open to Graduate Programmes, Junior Developer, Software Engineer, and Business Analyst opportunities.
 
 -------------------------------------------------------
 
@@ -59,7 +59,7 @@ Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Benefits2PointOh&theme=rose_pine&show_icons=true&hide_border=true&title_color=F71BA0&icon_color=F71BA0&text_color=e0def4&bg_color=191724" />
 -->
 
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Benefits2PointOh&layout=compact&theme=rose_pine&hide_border=true&title_color=F71BA0&text_color=e0def4&bg_color=191724" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Benefits2PointOh&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </p>
 
@@ -119,9 +119,11 @@ Screenshots Example
 
 ## 📖 Currently Learning
 
-• Spring Boot
-• REST APIs
-• Cloud Computing
+- Business Intelligence Analytics
+- Figma for UI/UX Design
+- Python for Beginners
+- REST APIs
+- Cloud Computing
 
 -------------------------------------------------------
 <!--
@@ -130,9 +132,9 @@ Screenshots Example
 - Business Intelligence Analyst
 - Figma for UI/UX Design
 - Python for Beginners
--->
 
 -------------------------------------------------------
+-->
 
 ## 🎯 Career Goals
 
