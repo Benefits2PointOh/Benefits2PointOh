@@ -60,21 +60,60 @@ Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Visual Studi
 </p>
 
 -------------------------------------------------------
-Featured Projects
+## 🚀 Featured Projects
 
-💊 Pharmacy Inventory Management System
+### 🖥️ Pharmacy Inventory Management System
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 
-📦 Business Inventory Management System
+Screenshots Example
 
-📚 Training Booking Website
+| Login | Dashboard |
+|-------|-----------|
+| ![](images/login.png) | ![](images/dashboard.png) |
 
-📱 Contact Management App
+| Inventory | Reports |
+|-----------|----------|
+| ![](images/inventory.png) | ![](images/reports.png) |
+-->
 
-🍽 Restaurant Rater
+### 🖥️ Business Inventory Management System
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
+-->
 
+### 🌐 Training Booking Website
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=online-training-booking-system&theme=tokyonight)](https://github.com/Benefits2PointOh/online-training-booking-system)
+-->
+
+### 📱 Contact Management App
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=contact-management-mobile-app&theme=tokyonight)](https://github.com/Benefits2PointOh/contact-management-mobile-app)
+-->
+
+#### 📱 Restaurant Rater
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
+-->
+
+### 🌐 Tic-Tac-Toe Website
+<!-- **Projects cards... gonna add later**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/Benefits2PointOh/Tic-Tac-Toe)
+-->
+
+### 🌐 Quiz-Website
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Quiz-Website&theme=tokyonight)](https://github.com/Benefits2PointOh/Quiz-Website)
+-->
+
+### 🌐 My-Portfolio
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
+-->
 -------------------------------------------------------
 
-Currently Learning
+## 📖 Currently Learning
 
 • Spring Boot
 • REST APIs
@@ -88,15 +127,6 @@ Currently Learning
 - Figma for UI/UX Design
 - Python for Beginners
 -->
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/Benefits2PointOh/Tic-Tac-Toe)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Quiz-Website&theme=tokyonight)](https://github.com/Benefits2PointOh/Quiz-Website)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=online-training-booking-system&theme=tokyonight)](https://github.com/Benefits2PointOh/online-training-booking-system)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=contact-management-mobile-app&theme=tokyonight)](https://github.com/Benefits2PointOh/contact-management-mobile-app)
 
 -------------------------------------------------------
 
@@ -116,8 +146,26 @@ I'm currently looking for opportunities as a:
 
 ## 📫 Let's Connect
 
-LinkedIn: https://linkedin.com/in/tafaramawere
+<p align="left">
 
-Email: tafaramawereb@gmail.com
+<a href="https://www.linkedin.com/in/tafaramawere">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tafaramawereb@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Benefits2PointOh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add Live portfolio
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+-->
+
+</p>
 
 -------------------------------------------------------
