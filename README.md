@@ -1,6 +1,6 @@
 -------------------------------------------------------
 <p align="center">
-  <img src="Tafara Mawere Banner.png" alt="Tafara Mawere Banner" />
+  <img src="Tafara_Mawere_Banner.png" alt="Tafara Mawere Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tafara Mawere</h1>
