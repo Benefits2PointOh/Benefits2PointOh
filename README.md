@@ -106,7 +106,11 @@ Screenshots Example
 ---
 
 ### 🖥️ Business Inventory Management System
-
+> Desktop application designed to manage inventory, sales, and business operations through an intuitive dashboard. Features include inventory tracking, sales management, reporting, and secure user authentication.
+>
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
@@ -165,11 +169,23 @@ Screenshots Example
 ---
 
 ### 🌐 Tic-Tac-Toe Website
+> Interactive browser-based implementation of the classic Tic-Tac-Toe game, featuring responsive design, real-time gameplay logic, and a clean user interface.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 <!-- **Projects cards... gonna add later**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/Benefits2PointOh/Tic-Tac-Toe)
 -->
 
 ### 🌐 Quiz-Website
+> Interactive web application that presents multiple-choice quizzes, validates answers instantly, and tracks user scores through a responsive and user-friendly interface.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=Quiz-Website&theme=tokyonight)](https://github.com/Benefits2PointOh/Quiz-Website)
 -->
