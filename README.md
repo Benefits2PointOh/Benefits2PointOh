@@ -66,19 +66,29 @@
 
 <h2 align="center"> 📊 GitHub Statistics </h2>
 
-<p align="center">
+
 <!-- I dont want hub stats RN
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Benefits2PointOh&theme=midnight-purple&show_icons=true&hide_border=true" />
 -->
+<h3 align="center"> Languages I've used across my projects </h3>
 
+<p align="center">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Benefits2PointOh&layout=compact&theme=midnight-purple&hide_border=true" />
-
 </p>
 
 
 <h2 align="center"> 🚀 My Projects </h2>
 
 ### 🖥️ Pharmacy Inventory Management System
+> Desktop application for managing pharmacy inventory, sales, reporting, and user administration.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+
+📸 *Screenshot coming soon.*
+
+🔗 **Repository:** *(Link will be added once published)*
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 
@@ -93,25 +103,66 @@ Screenshots Example
 | ![](images/inventory.png) | ![](images/reports.png) |
 -->
 
+---
+
 ### 🖥️ Business Inventory Management System
+
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 -->
 
+---
+
 ### 🌐 Training Booking Website
+> Full-stack booking platform allowing users to register, book training sessions, and manage course information.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+📸 *Screenshot coming soon.*
+
+🔗 **Repository:** *(Coming soon)*
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=online-training-booking-system&theme=tokyonight)](https://github.com/Benefits2PointOh/online-training-booking-system)
 -->
 
+---
+
 ### 📱 Contact Management App
+> Android application for creating, storing, and managing contacts with an intuitive mobile interface.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+📸 *Screenshot coming soon.*
+
+🔗 **Repository:** *(Coming soon)*
+
+---
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=contact-management-mobile-app&theme=tokyonight)](https://github.com/Benefits2PointOh/contact-management-mobile-app)
 -->
 
 #### 📱 Restaurant Rater
+
+> Android application allowing users to browse restaurants and rate dishes using a modern mobile interface.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+📸 *Screenshot coming soon.*
+
+🔗 **Repository:** *(Coming soon)*
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 -->
+
+---
 
 ### 🌐 Tic-Tac-Toe Website
 <!-- **Projects cards... gonna add later**
@@ -124,15 +175,26 @@ Screenshots Example
 -->
 
 ### 🌐 My-Portfolio
+> Personal portfolio showcasing my projects, technical skills, and software development journey.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+📸 *Screenshot coming soon.*
+
+🔗 **Repository:** *(Coming soon)*
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benefits2PointOh&repo=PROJECT&theme=tokyonight)](https://github.com/Benefits2PointOh/PROJECT)
 -->
 
+---
 
 <h2 align="center"> 📖 Currently Learning </h2>
 
-- Business Intelligence Analytics
-- Figma for UI/UX Design
+- Business Intelligence & Data Analytics
+- UI/UX Design With Figma
 - Python for Beginners
 - REST APIs
 - Cloud Computing
@@ -141,8 +203,8 @@ Screenshots Example
 <!--
 ## 📜 Certifications
 
-- Business Intelligence Analyst
-- Figma for UI/UX Design
+- Business Intelligence & Data Analytics
+- UI/UX Design With Figma
 - Python for Beginners
 -->
 
@@ -150,17 +212,17 @@ Screenshots Example
 
 I'm passionate about developing software that solves real-world business problems.
 
-I'm currently looking for opportunities as a:
+Currently looking for opportunities in:
 
-- Graduate Software Developer
-- Junior Software Developer
-- Mobile Developer
-- Business Analyst
-- IT Support Engineer
+- Graduate Software Development
+- Junior Software Engineering
+- Mobile Application Develpment
+- Business Analysis
+- IT Support & Systems
 
 
 
-<h2 align="center"> 📫 Let's Connect </h2>
+<h2 align="center"> 📫 Feel Free To Reach Out To Me </h2>
 
 <p align="center">
 
